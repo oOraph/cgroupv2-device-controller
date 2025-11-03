@@ -1,0 +1,1 @@
+see attach_device_filter.py helper program to tweak the device whitelist map: just a wrapper around bpftool commands (since there are no satisfying co-re btf bindings for python)
